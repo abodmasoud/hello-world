@@ -5,7 +5,6 @@
     <h1>My Name is Abood</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-dfdfdf
     <label for="name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="name" id="name" required>
     <br>
