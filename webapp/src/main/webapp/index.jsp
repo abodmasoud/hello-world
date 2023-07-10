@@ -2,10 +2,9 @@
   <div class="container">
     <h1>New user Register for DevOps learning</h1>
     <hr>
-    <h1>My Name is Abood Masoud</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account. test</p>
     <hr>
-dfdfdf
+
     <label for="name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="name" id="name" required>
     <br>
@@ -29,8 +28,5 @@ dfdfdf
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-  <h1> ABOOD MASOUD ❤❤❤ </h1>
-  <h1> Thank You,Happy Learning </h1>
 
 </form>
