@@ -4,7 +4,7 @@
     <h1>Deploy on docker host using Kubernates this is the final stage of the pipline</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="name"><b>Enter Name</b></label>
+    <label for="name"><b>Enter Name Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="name" id="name" required>
     <br>
     <label for="mobile"><b>Enter Mobile</b></label>
