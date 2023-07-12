@@ -4,7 +4,7 @@
     <p>Willcome to our project this is edited by Taher</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="name"><b>Enter Full Name</b></label>
+    <label for="name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="name" id="name" required>
     <br>
     <label for="mobile"><b>Enter Mobile</b></label>
