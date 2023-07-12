@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <hr>
-    <h1>Deploy on docker host using Kubernates this is the final stage of the pipline</h1>
+    <p>Willcome to our project</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="name"><b>Enter Name Full Name</b></label>
