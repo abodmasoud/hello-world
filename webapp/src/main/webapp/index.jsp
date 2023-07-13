@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <hr>
-    <p>Wellcome to our project/p>
+    <p>Wellcome to our project</p>
+    <h1>this is the finale stage </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="name"><b>Enter Name</b></label>
