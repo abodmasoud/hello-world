@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <hr>
-    <p>Willcome to our project this is edited by Taher</p>
+    <p>Wellcome to our project this is </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="name"><b>Enter Name Full Name</b></label>
